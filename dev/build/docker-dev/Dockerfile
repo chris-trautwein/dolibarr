@@ -1,4 +1,4 @@
-FROM php:8.1-apache-bullseye
+FROM php:8.4.7RC1-fpm-alpine3.21
 
 ENV PHP_INI_DATE_TIMEZONE 'UTC'
 ENV PHP_INI_MEMORY_LIMIT 256M

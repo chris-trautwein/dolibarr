@@ -1,4 +1,4 @@
-FROM php:8.2-apache-bookworm
+FROM php:8.5.7-apache-bookworm
 
 LABEL maintainer="Yann Le Doaré <services@linuxconsole.org>"
 
